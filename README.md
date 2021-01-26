@@ -15,7 +15,7 @@
 
 This Project analyzes disaster data from Figure Eight to build a model for an API that classifies disaster messages. The project builds a Natural Language Model Processor (NLP) to classify messages provided by the user. 
 
-I used 26248 real disaster messages to train the model into 34 different genres. 
+I used 26248 real disaster messages to train the model into 36 different genres. 
 
 The project comprises of the following steps:
 1. ETL Pipeline
