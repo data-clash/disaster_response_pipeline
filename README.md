@@ -66,6 +66,8 @@ In a Python script, train_classifier.py, write a machine learning pipeline that:
 ## Files
 
 <br>- app
+<br>|- static
+<br>| |-style.css #style sheet to override existing stylesheets
 <br>| - template
 <br>| |- master.html  # main page of web app
 <br>| |- go.html  # classification result page of web app
@@ -79,7 +81,7 @@ In a Python script, train_classifier.py, write a machine learning pipeline that:
 <br>
 <br>- models
 <br>|- train_classifier.py #model creation
-<br>|- classifier.pkl  # saved model 
+<br>|- classifier.pkl.7z  # saved model (zipped as it is 28 MB)
 
 
 <a name="authors"></a>
