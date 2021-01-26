@@ -3,13 +3,12 @@
 
 ## Table of Contents
 1. [Description](#description)
-2. [Getting Started](#getting_started)
-3. [Dependencies](#dependencies)
-4. [Executing Program](#execution)
-5. [Files](#files)
-6. [Authors](#authors)
-7. [License](#license)
-8. [Screenshots](#screenshots)
+2. [Dependencies](#dependencies)
+3. [Executing Program](#execution)
+4. [Files](#files)
+5. [Authors](#authors)
+6. [License](#license)
+7. [Screenshots](#screenshots)
 
 <a name="descripton"></a>
 ## Description
@@ -38,11 +37,9 @@ In a Python script, train_classifier.py, write a machine learning pipeline that:
 * Data visualization on message data genres
 * Input text which classifies the text into applicable genres
 
-<a name="getting_started"></a>
-## Getting Started
-
 <a name="dependencies"></a>
-### Dependencies
+## Dependencies
+
 * Python 3.5+
 * Machine Learning Libraries: NumPy, SciPy, Pandas, Sciki-Learn
 * NLTK Libraries: punkt', 'wordnet', 'averaged_perceptron_tagger', 'stopwords, 'WordNetLemmatizer'
@@ -51,7 +48,8 @@ In a Python script, train_classifier.py, write a machine learning pipeline that:
 * Web App and Data Visualization: Flask, Plotly
 
 <a name="execution"></a>
-### Executing Program:
+## Executing Program
+
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
@@ -64,7 +62,9 @@ In a Python script, train_classifier.py, write a machine learning pipeline that:
 
 3. Go to http://0.0.0.0:3001/
 
-### Files
+<a name="files"></a>
+## Files
+
 <br>- app
 <br>| - template
 <br>| |- master.html  # main page of web app
