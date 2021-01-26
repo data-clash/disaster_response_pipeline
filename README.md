@@ -1,4 +1,4 @@
-![header](header.png)
+![header](screenshots/header.png)
 
 
 ## Table of Contents
@@ -95,7 +95,7 @@ Apache License 2.0
 ## Screenshots
 
 1. Visualizations of test messages
-![graphs](graphs.png)
+![graphs](screenshots/graphs.png)
 
 2. Result of a classification text
-![result](result.png)
+![result](screenshots/result.png)
