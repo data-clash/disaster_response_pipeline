@@ -54,9 +54,6 @@ def clean_data(df):
     df.drop_duplicates(inplace=True)
     
     return df
-    
-    
-    return df
 
 
 def save_data(df, database_filename):
